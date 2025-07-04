@@ -17,3 +17,15 @@ let someNumber=33
 let StringNumber=String(someNumber)
 console.log(StringNumber);
 console.log(typeof StringNumber); //to know the datatype
+
+//********************************************Operation*************************************************************
+
+let Str1= "Hello"
+let Str2= " Ankita"
+Str3=Str1+Str2
+console.log(Str3);
+
+console.log(null>0);
+console.log(null==0);
+console.log(null>=0);//comparision and euality operator works differently comparisonal operator chnges the null to valu (treating itv as 0)
+
