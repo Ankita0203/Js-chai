@@ -17,3 +17,7 @@ const myFunction=function(){
     console.log("Hello world");
 }
 console.log(typeof bignumber);//type of is used to know datatype
+
+//********************************************************
+//primitive data uses Stack memory
+//non primitive uses Heap memory
